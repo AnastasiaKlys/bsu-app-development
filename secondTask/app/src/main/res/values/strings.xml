@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">StylishApp</string>
+    <string name="question_for_mood">What is your mood today?</string>
+    <string name="answer_for_mood">Enter your variant:)</string>
+    <string name="btn_text_answer">Answer</string>
+    <string name="btn_text_ready">Ready</string>
+</resources>

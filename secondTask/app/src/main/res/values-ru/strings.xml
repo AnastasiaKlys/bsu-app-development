@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_text_answer">Ответить</string>
+    <string name="question_for_mood">Какое у Вас сегодня настроение?</string>
+    <string name="answer_for_mood">Введите Ваш вариант:)</string>
+    <string name="btn_text_ready">Готово</string>
+</resources>
