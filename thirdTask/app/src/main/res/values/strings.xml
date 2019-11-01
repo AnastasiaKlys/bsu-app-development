@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">FragmentApp</string>
+    <string name="question_for_mood">What is your mood today?</string>
+    <string name="answer_for_mood">Enter your variant:)</string>
+    <string name="btn_text_answer">Answer</string>
+    <string name="btn_text_ready">Ready</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exit">Exit</string>
+    <string name="exit_dialog_message">Do you really want to leave?</string>
+    <string name="exit_dialog_ok">Yes</string>
+    <string name="exit_dialog_no">No</string>
+</resources>
